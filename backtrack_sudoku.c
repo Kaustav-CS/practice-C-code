@@ -1,6 +1,6 @@
 //location[E:\<Main Folder>\Programming\Atom_editor\
 #include <stdio.h>
-#include <stdlib.h>
+//#include <stdlib.h>
 
 // N is the size of the 2D matrix   N*N
 #define N 9
