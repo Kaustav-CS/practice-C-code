@@ -13,6 +13,7 @@ void print(int arr[N][N])
          for (int j = 0; j < N; j++)
             printf("%d ",arr[i][j]);
             printf("\n New change; line 15\n");
+            printf("\n New change; line 16\n");
          printf("\n");
        }
 }
