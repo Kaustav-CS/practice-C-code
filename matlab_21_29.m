@@ -1,3 +1,4 @@
+%To contact:    kaustav.pg2019@ee.iiests.ac.in (for academic only)
 [x,y] = peaks(30);
 z = exp(-0.9*(x.^2+0.5*(x-y).^2));
 surf(x,y,z);
