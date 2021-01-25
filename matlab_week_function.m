@@ -1,4 +1,4 @@
-% sample day_of_week(5)
+% sample day_of_week(4)
 
 function day_of_week(n)
 if n == 1
@@ -31,7 +31,9 @@ if day_type == 1
 else
     fprintf(' which is a weekend day\n');
 end
+
 end
+
 
 %{kaustav.pg2019@ee.iiests.ac.in
 %[for academic contact]
