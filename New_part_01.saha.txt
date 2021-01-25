@@ -13,6 +13,9 @@ while i<3:
             try:
                 print ("{:<30}|  {:<}".format(i, results[0]))
                 $ guider pattern
+                if//
+                pass,
+
             except IndexError:
                 print ("{:<30}|  {:<}".format(i, ""))
         except subprocess.CalledProcessError:
