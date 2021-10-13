@@ -10,13 +10,22 @@ check and save my practice ; test[December,2020]
 - Make a insertion of PDF file in .md
 
 ==
+At Center
 <p align="center">
-  <img src="https://github.com/Kaustav-CS/Notes/blob/main/71755863_2020_11_30.jpg" />
+  <img src="https://github.com/Kaustav-CS/Notes/blob/main/34.jpg" />
 </p>
 
 
+At Left
+<p align="left">
+  <img src="https://github.com/Kaustav-CS/Notes/blob/main/34.jpg" />
+</p>
 
 
+At Right
+<p align="right">
+  <img src="https://github.com/Kaustav-CS/Notes/blob/main/34.jpg" />
+</p>
 
 
 Modify .md file in 14 Oct,2021
