@@ -22,7 +22,7 @@ At Left
 </p>
 
 At Bottom
-<p align="bottom">
+<p align="end">
   <img src="https://github.com/Kaustav-CS/Notes/blob/main/34.jpg" />
 </p>
 
