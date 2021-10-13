@@ -32,6 +32,16 @@ At Right
 </p>
 ---
 
+Markdown:
+
+![A cute kitten](http://placekitten.com/200/300?style=centerme)
+
+And CSS:
+
+img[src$="centerme"] {
+  display:block;
+  margin: 0 auto;
+}
 
 
 
